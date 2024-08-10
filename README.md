@@ -1,3 +1,17 @@
+A new codebase again? Yes!
+
+For this project you will fork this codebase:
+
+Update the repository name to AirBnB_clone_v4
+Update the README.md:
+Add yourself as an author of the project
+Add new information about your new contribution
+Make it better!
+If you’re the owner of this codebase, create a new repository called AirBnB_clone_v4 and copy over all files from AirBnB_clone_v3
+If you didn’t install Flasgger from the previous project, it’s time! sudo pip3 install flasgger
+
+
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
